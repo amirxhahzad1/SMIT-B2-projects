@@ -1,0 +1,23 @@
+# Environment & Secret files
+.env
+*.env
+gcp-oauth.keys.json
+.gcp-saved-tokens.json
+tokens.json
+
+# Python virtual environment & cache
+.venv/
+venv/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
