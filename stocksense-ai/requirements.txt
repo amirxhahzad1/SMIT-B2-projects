@@ -1,0 +1,21 @@
+# Core Streamlit & Visualization
+streamlit>=1.35.0
+plotly>=5.20.0
+
+# Data Analysis & Calculations
+pandas>=2.2.0
+numpy>=1.26.0
+openpyxl>=3.1.2
+
+# Configuration & Data Validation
+python-dotenv>=1.0.0
+pydantic>=2.7.0
+
+# AI & Orchestration
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-google-genai>=2.0.0
+langgraph>=0.6.0
+
+# Automated Testing
+pytest>=8.0.0

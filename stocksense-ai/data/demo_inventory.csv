@@ -1,0 +1,17 @@
+sku,product_name,warehouse,batch_number,quantity,expiry_date,supplier_lead_time_days,unit_cost
+SKU-BEV-001,Aura Spark Sparkling Citrus 500ml [DEMO],WH-North,LOT-A101,50,2026-10-22,7,1.85
+SKU-BEV-001,Aura Spark Sparkling Citrus 500ml [DEMO],WH-Central,LOT-A102,120,2026-11-05,7,1.85
+SKU-BEV-001,Aura Spark Sparkling Citrus 500ml [DEMO],WH-Central,LOT-A103,350,2027-01-15,7,1.85
+SKU-DAI-002,NutriOat Barista Oat Milk 1L [DEMO],WH-North,LOT-N201,45,2026-10-10,5,2.40
+SKU-DAI-002,NutriOat Barista Oat Milk 1L [DEMO],WH-Central,LOT-N202,80,2026-10-24,5,2.40
+SKU-DAI-002,NutriOat Barista Oat Milk 1L [DEMO],WH-South,LOT-N203,200,2026-12-20,5,2.40
+SKU-SNK-003,VitaCrisp Cinnamon Apple Chips 80g [DEMO],WH-North,LOT-V301,220,2026-11-08,12,3.10
+SKU-SNK-003,VitaCrisp Cinnamon Apple Chips 80g [DEMO],WH-South,LOT-V302,180,2026-12-15,12,3.10
+SKU-TEA-004,ZenTea Ceremonial Matcha 100g [DEMO],WH-Central,LOT-Z401,15,2027-03-30,14,14.50
+SKU-NUT-005,PrimalPeak Roasted Almonds 250g [DEMO],WH-North,LOT-P501,400,2027-06-30,10,4.25
+SKU-NUT-005,PrimalPeak Roasted Almonds 250g [DEMO],WH-South,LOT-P502,200,2027-07-15,10,4.25
+SKU-SUP-006,HydroHydrate Berry Electrolyte 30pk [DEMO],WH-North,LOT-H601,95,2026-11-12,10,11.20
+SKU-SUP-006,HydroHydrate Berry Electrolyte 30pk [DEMO],WH-Central,LOT-H602,240,2027-04-15,10,11.20
+SKU-BAK-007,GoldenCrust Gluten-Free Granola 400g [DEMO],WH-South,LOT-G701,110,2026-10-21,8,4.75
+SKU-BAK-007,GoldenCrust Gluten-Free Granola 400g [DEMO],WH-North,LOT-G702,90,2026-11-18,8,4.75
+SKU-OIL-008,TerraPure Extra Virgin Avocado Oil 500ml [DEMO],WH-Central,LOT-T801,300,2027-08-20,15,8.90
